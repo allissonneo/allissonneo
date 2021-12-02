@@ -3,7 +3,7 @@
 Sou estudante de Ciência da Computação no IFCE Campus Aracati-CE, venho estudando desenvolvimento web e mobile desde o início de 2021, me aprofundei quando entrei no programa de treinamento da VTEX, o Hiring Coders e logo depois o #GoBeyond da Corebiz, recentemente ando estudando tanto front-end quanto back-end e estou em constante evolução.
 
  <div align="center">
-  <a href="https://github.com/jessicasiiq">
+  <a href="https://github.com/allissonneo">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=allissonneo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allissonneo&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
@@ -19,7 +19,9 @@ Sou estudante de Ciência da Computação no IFCE Campus Aracati-CE, venho estud
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img align="center" alt="Next" height="30" width="40" src="http://www.legrandlucas.com/assets/nextjs__white.png" />
+  <img align="center" alt="Vtex IO" height="30" width="40" src="https://avatars3.githubusercontent.com/u/56606363?v=4" />
+   <i class="devicon-nextjs-original-wordmark"></i>
 </div>
    
 ## 
